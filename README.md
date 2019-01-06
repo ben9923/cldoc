@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jessevdk/cldoc.svg?branch=master)](https://travis-ci.org/jessevdk/cldoc)
+**This version of cldoc has been modified for use with VoodooI2C**
 
 cldoc is a clang based documentation generator for C and C++. cldoc tries to
 solve the issue of writing C/C++ software documentation with a modern,
